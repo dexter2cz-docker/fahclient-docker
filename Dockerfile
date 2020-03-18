@@ -10,7 +10,7 @@ RUN wget -q https://download.foldingathome.org/releases/public/release/fahclient
 RUN dpkg -i fahclient_7.5.1_amd64.deb
 RUN rm -f fahclient_7.5.1_amd64.deb
 
-EXPOSE 36330 7396
+#EXPOSE 36330 7396
 
 #RUN wget -q http://us.download.nvidia.com/tesla/440.64.00/NVIDIA-Linux-x86_64-440.64.00.run
 #RUN chmod +x NVIDIA-Linux-x86_64-440.64.00.run

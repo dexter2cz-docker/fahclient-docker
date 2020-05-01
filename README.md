@@ -19,3 +19,6 @@ All arguments are supplied through environment. Keys and usage is detailes below
 | POWER         | full          | *medium*      | --power |
 | NVIDIA        | *not set*     | *440.64.00*   | NVIDIA driver version |
 | EXTRA         | *not set*     | *--gpu=false* | *Additional arguments* |
+### Versions
+* 7.5.1 - dexter2cz/fahclient
+* 7.6.9 - dexter2cz/fahclient:v7.6.9
